@@ -81,3 +81,6 @@ C:\Users\Владимир\Desktop\СМРПО\Иваныч\AutoBase\AutoBase\obj\
 C:\Base\AutoBase\bin\Debug\AutoBase.exe.config
 C:\Base\AutoBase\obj\Debug\AutoBase.exe
 C:\Base\AutoBase\obj\Debug\AutoBase.pdb
+C:\base1\GoMoonCooL\AutoBase\bin\Debug\AutoBase.exe.config
+C:\base1\GoMoonCooL\AutoBase\obj\Debug\AutoBase.exe
+C:\base1\GoMoonCooL\AutoBase\obj\Debug\AutoBase.pdb
