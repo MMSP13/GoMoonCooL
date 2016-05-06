@@ -78,3 +78,6 @@ C:\Users\Владимир\Desktop\СМРПО\Иваныч\AutoBase\AutoBase\obj\
 C:\Users\Владимир\Desktop\СМРПО\Иваныч\AutoBase\AutoBase\obj\Debug\AutoBase.Properties.Resources.resources
 C:\Users\Владимир\Desktop\СМРПО\Иваныч\AutoBase\AutoBase\obj\Debug\AutoBase.csproj.GenerateResource.Cache
 C:\Users\Владимир\Desktop\СМРПО\Иваныч\AutoBase\AutoBase\obj\Debug\AutoBase.exe
+C:\Base\AutoBase\bin\Debug\AutoBase.exe.config
+C:\Base\AutoBase\obj\Debug\AutoBase.exe
+C:\Base\AutoBase\obj\Debug\AutoBase.pdb
